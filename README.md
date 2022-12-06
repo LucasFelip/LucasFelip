@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/LucasFelip">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFelip&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelip&layout=compact&theme=dracula"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelip&layout=compact&theme=dracula"/>-->
 </div>
   
 <div align="center" style="display: inline_block"><br>
@@ -18,7 +18,7 @@
   
  ##
 
-<div>
+<div align="center">
   <a href="https://www.instagram.com/luckylusca/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://wa.me/qr/3YZOJNRLUYQNO1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -27,6 +27,4 @@
 </div>
   
   ##
-
   ![Snake animation](https://github.com/LucasFelip/LucasFelip/blob/output/github-contribution-grid-snake.svg)
-
