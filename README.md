@@ -52,12 +52,13 @@ Instituto Federal de Educação, Ciência e Tecnologia do Maranhão — Sistema 
 Periodo 2018 - 2023
 
 ### Cursos e Eventos
-* Hackthon ([Certificado](assets/diplomas/Hackthon.pdf))
-* Capacitação em Routing e Switching ([Certificado](assets/diplomas/Capacitação_em_Routing_e_Switching.pdf))
+* Hackthon ([Certificado](diplomas/Hackthon.pdf))
+* Capacitação em Routing e Switching ([Certificado](diplomas/Capacitação_em_Routing_e_Switching.pdf))
 * Semana Spring React ([Certificado](diplomas/Semana_Spring_React.pdf))
 * Project Development using JAVA for beginners ([Certificado](diplomas/Project_Development_Using_JAVA_for_Beginners.pdf))
 * Jogos 3D com Unity modo multiplayer ([Certificado](diplomas/Jogos_3D_com_Unity__modo_multiplayer.pdf))
 
+Capacitação em Routing e Switching 
 ## Projetos
 * [Site curriculo][site.netlify]
 * [API Hamburgueria][github.api]
