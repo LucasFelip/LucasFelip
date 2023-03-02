@@ -13,12 +13,6 @@
   ![Snake animation](https://github.com/LucasFelip/LucasFelip/blob/output/github-contribution-grid-snake.svg)
  ##
 ## Conhecimentos
-  
-### Gerais
-* Lógica de Programação.
-* Inglês suficiente para ler e entender.
-* Comunicação interpessoal.
-
 ### Linguagens de Programação
   <div style="display: inline_block">
     <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
