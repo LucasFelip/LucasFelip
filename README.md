@@ -57,22 +57,12 @@ Periodo 2017 - 2018
 Instituto Federal de Educação, Ciência e Tecnologia do Maranhão — Sistema de Informação </br>
 Periodo 2018 - 2023
 
-## Experiência Profissional
-* (2022 -  Atual) <br>
-  **TJMA - Tribunal de Justiça do Estado do Maranhão** -
-  Estagiário na Divisão de Sistemas de Informção (DSI).
-    * Colaborar no desenvolvimento do projeto SAPRE.
-    * Auxiliar no processo de gerenciamento de projeto.
-    * Corrigir bugs no projeto e desenvolver novas funcionalidades.
-
-* (2021 -  2022) <br>
-  **JUCEMA - Junta Comercial do Estado do Maranhão** -
-  Estagiário no setor de Tecnologia da Informação.
-    * Colaborar no desenvolvimento do projeto Consulta Empresarial.
-    * Estruturar base de dados para migração de dados.
-    * Análise de desempenho e funcionamento dos bancos: Apache Pinot e MongoDB.
-    * Corrigir bugs no projeto e desenvolver novas funcionalidades.
-
+### Cursos e Eventos
+* Hackthon ([Certificado](assets/diplomas/Hackthon.pdf))
+* Capacitação em Routing e Switching ([Certificado](assets/diplomas/Capacitação_em_Routing_e_Switching.pdf))
+* Semana Spring React ([Certificado](diplomas/Semana_Spring_React.pdf))
+* Project Development using JAVA for beginners ([Certificado](diplomas/Project_Development_Using_JAVA_for_Beginners.pdf))
+* Jogos 3D com Unity modo multiplayer ([Certificado](diplomas/Jogos_3D_com_Unity__modo_multiplayer.pdf))
 
 ## Projetos
 * [Site curriculo][site.netlify]
@@ -81,12 +71,7 @@ Periodo 2018 - 2023
 * [Tora Software tutorial][site.tora]
 * [Projeto SDS3][github.sds]
 
-## Cursos e Eventos
-* Hackthon ([Certificado](assets/diplomas/Hackthon.pdf))
-* Capacitação em Routing e Switching ([Certificado](assets/diplomas/Capacitação_em_Routing_e_Switching.pdf))
-* Semana Spring React ([Certificado](diplomas/Semana_Spring_React.pdf))
-* Project Development using JAVA for beginners ([Certificado](diplomas/Project_Development_Using_JAVA_for_Beginners.pdf))
-* Jogos 3D com Unity modo multiplayer ([Certificado](diplomas/Jogos_3D_com_Unity__modo_multiplayer.pdf))
+
 
 
 ## Redes sociais
