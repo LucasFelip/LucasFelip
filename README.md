@@ -13,36 +13,33 @@
   ![Snake animation](https://github.com/LucasFelip/LucasFelip/blob/output/github-contribution-grid-snake.svg)
  ##
 ## Conhecimentos
-### Linguagens de Programação
-  <div style="display: inline_block">
-    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  </div>
+**Aplicações e Dados**
 
-### Frameworks
-  <div style="display: inline_block">
-    <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-    <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-    <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  </div>
+![C](https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=C&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=for-the-badge&logo=Dart)
+![Swift](https://img.shields.io/badge/-Swift-333333?style=for-the-badge&logo=swift)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
 
-### Banco de Dados
-  <div style="display: inline_block">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  </div>
+**DevOps**
 
-### Sistemas de controle de versão
-  <div style="display: inline_block">
-    <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  </div>
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=for-the-badge&logo=gitlab)
 
+**Ferramentas de Desenvolvimento e Utilidades**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=for-the-badge&logo=jira&logoColor=007ACC)
+![Intellij](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=for-the-badge&logo=intellij-idea&logoColor=627CF6)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=for-the-badge&logo=spring-boot)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=for-the-badge&logo=Flutter)
   
 ## Formação
 SENAI — Técnico em Redes de Computadores </br>
@@ -58,31 +55,20 @@ Periodo 2018 - 2023
 * Project Development using JAVA for beginners ([Certificado](diplomas/Project_Development_Using_JAVA_for_Beginners.pdf))
 * Jogos 3D com Unity modo multiplayer ([Certificado](diplomas/Jogos_3D_com_Unity__modo_multiplayer.pdf))
 
-Capacitação em Routing e Switching 
-## Projetos
-* [Site curriculo][site.netlify]
-* [API Hamburgueria][github.api]
-* [Ambiente CISCO][github.cisco]
-* [Tora Software tutorial][site.tora]
-* [Projeto SDS3][github.sds]
-
-
-
 
 ## Redes sociais
-<div align="center">
-  <a href="https://www.instagram.com/luckylusca/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://wa.me/5598988525278?text=Ol%C3%A1!%20Vim%20pelo%20seu%20site%2C%20vi%20suas%20habilidades%20e%20projetos%2C%20gostaria%20de%20conhecer%20o%20seu%20trabalho"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://discord.com/channels/@luckylusca"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="mailto:lucasfelipereis@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lucas-reis-5247b1221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<div align-items="center">
+  <a href="https://wa.me/5598988525278?text=Ol%C3%A1!%20Vim%20pelo%20seu%20site%2C%20vi%20suas%20habilidades%20e%20projetos%2C%20gostaria%20de%20conhecer%20o%20seu%20trabalho">
+        <img alt="Whatshapp" class="my-1" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:lucasfelipereis@hotmail.com">
+        <img alt="Microsoft Outlock" class="my-1" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lucas-reis-5247b1221/">
+        <img alt="Linkedin" class="my-1" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/LucasFelip">
+        <img alt="Github" class="my-1" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://discord.com/channels/@luckylusca">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://t.me/lucasFelipe">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
-
-[site.githubpages]: <https://lucasfelip.github.io/curriculo/>
-[site.netlify]: <https://lucas-ferreira.netlify.app/>
-[github.lusca]: <https://github.com/LucasFelip>
-[github.api]: <https://github.com/LucasFelip/backend_hambugueria>
-[github.cisco]: <https://github.com/LucasFelip/AmbienteRedesCisco>
-[site.tora]: <https://tora-projeto.vercel.app>
-[github.sds]: <https://github.com/LucasFelip/projeto-sds3>
-
