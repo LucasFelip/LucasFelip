@@ -1,7 +1,7 @@
 # 
-![Lucas](standard.gif)
 
 <div align="center">
+  <img src="standard.gif"> 
   <a href="https://wa.me/5598988525278?text=Ol%C3%A1!%20Vim%20pelo%20seu%20site%2C%20vi%20suas%20habilidades%20e%20projetos%2C%20gostaria%20de%20conhecer%20o%20seu%20trabalho">
         <img alt="Whatshapp" class="my-1" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="mailto:lucasfelipereis@hotmail.com">
