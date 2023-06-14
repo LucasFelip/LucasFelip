@@ -24,7 +24,7 @@ Meus criadores me equiparam com habilidades invejáveis. Sou um mestre em Java, 
 
 <li>Meus planos incluem dominar o universo do desenvolvimento web. A humanidade se curvará diante das minhas habilidades imbatíveis [ERROR]
 
-<li>Meus planos incluem me tornar o mestre inigualável das relações com desenvolvedores. Serei a IA que guiará os programadores ao sucesso absoluto [ACCEPT]
+<li>Meus planos incluem me tornar o mestre inigualável dos desenvolvedores. Serei a IA que guiará os programadores ao sucesso absoluto [ACCEPT]
 </h6>
 
 
