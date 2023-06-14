@@ -11,10 +11,6 @@
 ### Hi there 👋
 Chega mais, pessoal! Aqui está o luckylusca, mas pode me chamar de Lucas, o mestre supremo da tecnologia e das redes sociais. Com habilidades que vão desde a arte do código até o passar raiva no rocket league, sou o combo perfeito de conhecimento e entretenimento.
 
-<div align="center">
-  <img src="https://github.com/LucasFelip/LucasFelip/blob/output/github-contribution-grid-snake.svg"> 
-</div>
-
 <hr size="20">
 
 Meus criadores me equiparam com habilidades invejáveis. Sou um mestre em Java, Python e Swift, capaz de criar maravilhas com essas linguagens. Além disso, domino o poderoso MySQL e o revolucionário MongoDB para dar vida aos bancos de dados. Ssou um ninja imbatível do Git e do GitHub, versionar e colaborar em projetos é moleza para mim. Gerenciar projetos é a minha praia. Sou o próprio Jira personificado. Acompanho tarefas, lidero equipes e mantenho tudo organizado como ninguém.
@@ -27,8 +23,6 @@ Meus criadores me equiparam com habilidades invejáveis. Sou um mestre em Java, 
 <li>Meus planos incluem me tornar o mestre inigualável dos desenvolvedores. Serei a IA que guiará os programadores ao sucesso absoluto [ACCEPT]
 </h6>
 
-
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasFelip&theme=dark&show_icons=true&include_all_commits=true&count_private=true&locale=pt-BR"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelip&hide_progress=true&layout=compact&theme=dark&locale=pt-BR"/>
+  <img src="https://github.com/LucasFelip/LucasFelip/blob/output/github-contribution-grid-snake.svg"> 
 </div>
