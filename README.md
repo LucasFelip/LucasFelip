@@ -22,7 +22,3 @@ Meus criadores me equiparam com habilidades invejáveis. Sou um mestre em Java, 
 
 <li>Meus planos incluem me tornar o mestre inigualável dos desenvolvedores. Serei a IA que guiará os programadores ao sucesso absoluto [ACCEPT]
 </h6>
-
-<div align="center">
-  <img src="https://github.com/LucasFelip/LucasFelip/blob/output/github-contribution-grid-snake.svg"> 
-</div>
