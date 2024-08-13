@@ -10,7 +10,7 @@
 </div>
 
 ### Hi folks 👋
-Chega mais, pessoal! Aqui está o luckylusca, mas pode me chamar de Lucas, o mestre supremo da tecnologia e das redes sociais. Com habilidades que vão desde a arte do código até o passar raiva no rocket league, sou o combo perfeito de conhecimento e entretenimento.
+Chega mais, pessoal! Aqui está o lusca, mas pode me chamar de Lucas, o mestre supremo da tecnologia e das redes sociais. Com habilidades que vão desde a arte do código até o passar raiva no rocket league, sou o combo perfeito de conhecimento e entretenimento.
 
 <hr size="20">
 
