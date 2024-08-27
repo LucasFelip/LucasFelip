@@ -9,7 +9,7 @@
   <a href="https://t.me/lucasFelipe" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 
-### Hi folks 👋
+### Hi folks 👋 [TEXTO ABAIXO CONTEM IRONIA]
 Chega mais, pessoal! Aqui está o lusca, mas pode me chamar de Lucas, o mestre supremo da tecnologia e das redes sociais. Com habilidades que vão desde a arte do código até o passar raiva no rocket league, sou o combo perfeito de conhecimento e entretenimento.
 
 <hr size="20">
