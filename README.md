@@ -6,19 +6,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelip&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
-
 ---
 
 ### Lucas Felipe - Java Software Engineer Jr
 
 Desenvolvedor backend com foco em Java e Spring Boot. Experiência em PostgreSQL, metodologias ágeis, e apaixonado por resolver problemas complexos com soluções eficientes.
 
-### 🚀 Tecnologias
+### 🚀 Tecnologias e Ferramentas
 
 - **Linguagens:** Java, Python, Swift, JavaScript, C, Dart
 - **Frameworks:** Spring Boot, Flutter, Bootstrap
 - **Banco de Dados:** MySQL, MongoDB, PostgreSQL
-- **Ferramentas:** Git, GitHub, GitLab
+- **Ferramentas de Versionamento:** Git, GitHub, GitLab
 - **Metodologias:** Scrum, Kanban, Agile
 
 ### 🛠️ Projetos Principais
@@ -30,19 +29,21 @@ Desenvolvedor backend com foco em Java e Spring Boot. Experiência em PostgreSQL
 - **[gestao](https://github.com/LucasFelip/gestao):** API de gestão financeira com Spring Boot, JWT, e PostgreSQL.
 - **[site-pessoal](https://github.com/LucasFelip/site-pessoal):** Portfólio online com HTML, CSS e JavaScript, hospedado no Netlify.
 
-### 🌱 Aprendendo
+### 🌱 O que Estou Aprendendo
 
-- APIs RESTful avançadas com Spring Boot
-- Testes automatizados e CI com GitHub Actions
-- Performance em sistemas complexos e otimização SQL
-- Deploy de bancos e APIs no Windows Server 2022
-- Reforçando Redes de Computadores
-- Plataformas de deploy como Render e Netlify
-- Estruturas Spring Boot avançadas
+Atualmente, estou me aprofundando em:
 
-### 💬 Contato
+- Desenvolvimento de APIs RESTful avançadas com Spring Boot
+- Testes automatizados e integração contínua (CI) com GitHub Actions
+- Otimização de performance em sistemas complexos e consultas SQL
+- Deploy de bancos de dados e APIs no Windows Server 2022
+- Reforçando conhecimentos em Redes de Computadores
+- Explorando plataformas de deploy como Render e Netlify
+- Estruturas Spring Boot mais complexas e avançadas
 
-Estou aberto a novas oportunidades e colaborações. Fale comigo!
+### 💬 Entre em Contato
+
+Estou sempre aberto a novas oportunidades e colaborações. Se quiser discutir algum projeto ou simplesmente bater um papo sobre tecnologia, não hesite em me contatar!
 
 <div align="center">
   <a href="https://wa.me/5598991530102" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
