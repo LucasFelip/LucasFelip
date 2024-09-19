@@ -46,10 +46,8 @@ Atualmente, estou me aprofundando em:
 Estou sempre aberto a novas oportunidades e colaborações. Se quiser discutir algum projeto ou simplesmente bater um papo sobre tecnologia, não hesite em me contatar!
 
 <div align="center">
-  <a href="https://wa.me/5598991530102" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="mailto:lucasfelipereis@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="mailto:luscafreis@gmail.com"><img class="my-1" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lucas-reis-5247b1221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/LucasFelip" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://t.me/lucasFelipe" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
