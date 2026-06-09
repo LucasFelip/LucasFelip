@@ -1,50 +1,63 @@
 <div align="center">
-  <!-- Title -->
-  <h1>Lucas Ferreira - Java Developer Jr</h1>
-  <p>
-    Desenvolvedor backend com foco em <strong>Java</strong> e <strong>Spring Boot</strong>. Experiência em <strong>PostgreSQL</strong>, 
-    <strong>metodologias ágeis</strong> e apaixonado por resolver problemas complexos com soluções eficientes.
-  </p>
-  
-  <!-- Contact Links -->
-  <div style="margin: 20px 0;">
-    <a href="mailto:lucasfelipereis@hotmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
-    </a>
-    <a href="mailto:luscafreis@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/lucas-reis-5247b1221/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/LucasFelip" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007396&height=120&section=header&text=Lucas%20Ferreira&fontSize=40&fontColor=white&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer&descAlignY=60&descAlign=50" />
 </div>
 
-<!-- Stats Section -->
 <div align="center">
-  <!-- Streak Stats -->
-  <div style="margin-bottom: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasFelip&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats">
-  </div>
-
-  <!-- GitHub Stats and Top Languages -->
-  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=LucasFelip&show_icons=true&theme=dark&count_private=true&hide_border=true&icon_color=00ff00&bg_color=0d1117" alt="LucasFelip's GitHub Stats" height="180px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelip&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages" height="180px">
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007396&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Building+REST+APIs+%7C+PostgreSQL+%7C+Docker;Clean+Code+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<!-- Skills Section -->
-<div align="center" style="margin-top: 30px;">
-  <p>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-  </p>
+<div align="center">
+  <a href="mailto:luscafreis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:lucasfelipereis@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lucas-reis-5247b1221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/LucasFelip"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+---
+
+<div align="center">
+  Desenvolvedor Backend focado em <b>Java</b> e <b>Spring Boot</b>, apaixonado por construir APIs bem estruturadas e soluções escaláveis.
+</div>
+
+<br>
+
+```java
+public class LucasFerreira {
+    private String role = "Backend Developer";
+    private String[] skills   = { "Java", "Spring Boot", "REST APIs" };
+    private String[] dbs      = { "PostgreSQL", "MySQL" };
+    private String[] tools    = { "Docker", "Git", "Maven", "Linux" };
+    private String[] learning = { "Microservices", "Kubernetes" };
+}
+```
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasFelip&theme=tokyonight&hide_border=true&background=0d1117&ring=007396&fire=007396&currStreakLabel=007396" height="180" />
+</div>
+  
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasFelip/LucasFelip/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasFelip/LucasFelip/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasFelip/LucasFelip/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007396&height=80&section=footer" />
 </div>
